@@ -1,2 +1,2 @@
-# Uzumaki
+# YashTambe
 This is my first repo
